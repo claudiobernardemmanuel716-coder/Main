@@ -24,7 +24,7 @@ header{
 	left: 0;
 	width: 100%;
 	padding: 1rem 9%;
-	background-color: #02A4D3; /*transparent*/
+	background-color: #7285A5; /*transparent*/  /*bg color ng nav*/
 	filter: drop-shadow(10px);
 	display: flex;
 	justify-content: space-between;
@@ -32,8 +32,8 @@ header{
 	z-index: 100;
 }
 .logo{
-	font-size: 3rem;
-	color: #b74b4b;
+	font-size: 3rem;         /*ung bernard sa nav*/
+	color: #6B7DAA;
 	font-weight: 800;
 	cursor: pointer;
 	transition: 0.5s ease;
@@ -56,7 +56,7 @@ nav a.active{
 }
 
 span{
-	color: #6B7DAA;
+	color: #6B7DAA;  /*ung naka span*/
 }
 .home-content h3{
 	font-size: 4rem;
