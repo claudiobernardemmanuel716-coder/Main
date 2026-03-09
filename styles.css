@@ -56,7 +56,7 @@ nav a.active{
 }
 
 span{
-	color: #b74b4b;
+	color: #6B7DAA;
 }
 .home-content h3{
 	font-size: 4rem;
@@ -71,7 +71,7 @@ span{
 	/*position: relative;*/
 	width: 32vw;
 	border-radius: 50%;
-	box-shadow: 0 0 25px solid #6B7DAA;
+	box-shadow: 0 0 25px solid #b74b4b;
 	cursor: pointer;
 	transition: 0.2s linear;
 }
