@@ -127,7 +127,7 @@ section{
 	margin-bottom: 8px;
 }
 .card-content p{
-	/*color:#666;*/
+	color: white; /*#666;*/
 	font-size: 15px;
 	line-height: 1.3;
 }
