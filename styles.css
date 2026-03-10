@@ -97,7 +97,7 @@ section{
   100% {background-color: green;}
 }
 
-.logo {
+span {
   width: 100px;
   height: 100px;
   background-color: red;
