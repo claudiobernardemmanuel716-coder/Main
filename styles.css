@@ -86,7 +86,6 @@ section{
 }
 .h-content>div{
 	display: flex;
-	flex-direction: column;
 	justify-content: flex-end;
 }
 
