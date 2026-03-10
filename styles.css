@@ -93,6 +93,9 @@ section{
 .about{
 	background-color: #7285A5;
 	margin: 50px;
+	display: flex;
+	flex-direction: row;
+	justify-content: middle;
 }
 
 
