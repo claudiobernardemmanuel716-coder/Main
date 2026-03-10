@@ -124,11 +124,6 @@ section{
 .card-content > h3 p{
 	padding:16px;
 
-	
-	display: flex;
-	flex-direction: column;
-	justify-content: flex-end;
-	align-items: flex-end;
 }
 .card-content h3{
 	text-align: center;
