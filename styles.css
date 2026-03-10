@@ -89,8 +89,11 @@ section{
 	flex-direction: column;
 	justify-content: flex-end;
 }
-
-
+/*about*/
+.about{
+	background-color: #7285A5;
+	
+}
 
 
 /* --FOR CARDS
