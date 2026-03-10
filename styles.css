@@ -85,7 +85,8 @@ section{
 	flex-direction: row;
 }
 .home-content{
-	
+	display: flex;
+	flex-direction: column;
 }
 
 
