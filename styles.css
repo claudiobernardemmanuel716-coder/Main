@@ -104,6 +104,9 @@ section{
 	flex-wrap: wrap;
 	margin-top: 100px
 }
+
+
+/*card*/
 .card{
 	width: 325px;
 	background-color: #f0f0f0;
