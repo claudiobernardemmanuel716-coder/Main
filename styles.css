@@ -106,18 +106,7 @@ section{
 	flex-wrap: wrap;
 	margin-top: 100px
 }
-.class-container1{
-	display: flex;
-	justify-content: flex-start;
-	flex-wrap: wrap;
-	margin-top: 100px
-}
-.class-container2{
-	display: flex;
-	justify-content: flex-end;
-	flex-wrap: wrap;
-	margin-top: 100px
-}
+
 
 /*card*/
 .card{
@@ -133,6 +122,11 @@ section{
 	height: auto;
 }
 .card-content{
+	
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	
 	padding:16px;
 }
 .card-content h3{
