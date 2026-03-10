@@ -58,9 +58,6 @@ nav a.active{
 span{
 	color: #123456;  /*ung naka span*/
 }
-.home{
-	display: flex;
-	flex
 }
 .home-content h3{
 	font-size: 4rem;
@@ -84,9 +81,8 @@ span{
 	font-weight: 500;
 }
 section{
-	display:flex;
+	display: flex;
 	flex-direction: row;
-	justify-content: flex-start;
 }
 .home-content{
 	
