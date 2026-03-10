@@ -93,6 +93,7 @@ section{
 .about{
 	background-color: #7285A5;
 	margin: 50px;
+	border: solid black 5px;
 	display: flex;
 	flex-direction: row;
 	justify-content: center;
