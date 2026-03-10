@@ -33,7 +33,7 @@ header{
 }
 .logo{
 	font-size: 3rem;         /*ung bernard sa nav*/
-	color: #6B7DAA;
+	color:#6B7DAA;
 	font-weight: 800;
 	cursor: pointer;
 	transition: 0.5s ease;
@@ -51,8 +51,8 @@ nav a{
 }
 nav a:hover,
 nav a.active{
-	color: #6B7DAA;
-	border-bottom: 3px solid #6B7DAA;
+	color: #123456;      /* ung home button sa nav*/
+	border-bottom: 3px solid #123456;
 }
 
 span{
