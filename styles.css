@@ -209,6 +209,12 @@ main{
 	margin-top: 16px;
 	color:#fff;
 }
+.project-cards{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	
+}
 /**/ /*
 .class-container{
 	display: flex;
