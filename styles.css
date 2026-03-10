@@ -106,9 +106,6 @@ section{
 	flex-wrap: wrap;
 	margin-top: 100px
 }
-
-
-/*card*/
 .card{
 	width: 325px;
 	background-color: #7285A5; /*#f0f0f0;*/
@@ -121,7 +118,7 @@ section{
 	width:100%;
 	height: auto;
 }
-.card-content > h3 p{
+.card-content{
 	padding:16px;
 
 }
