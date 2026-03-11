@@ -114,7 +114,10 @@ section{
 	margin-top: 100px
 }
 .card{
-	width: 325px;
+	width: 300px;  
+	/*
+	width: 325px; ------ original code
+	*/
 	background-color: #7285A5; /*#f0f0f0;*/
 	border-radius: 8px;
 	overflow: hidden;
