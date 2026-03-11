@@ -130,8 +130,12 @@ section{
 	margin: 20px;
 }
 .card img{
+	width: auto;
+	height: 300px;   
+	/*experiment  ---- original code
 	width:100%;
 	height: auto;
+	*/
 }
 .card-content{
 	padding:16px;
